@@ -16,3 +16,11 @@ Unpaired Image to Image Translation using cycleGAN.
 
 Enhancing Object Tracking in Game Clips Through image analysis techniques.
     (Used some image analysis techniques like Segmentation, Gaussian Filtering, Haar Image Compression)
+
+
+###Certifications
+Microsoft Power BI Desktop for Business Intelligence (2023).
+
+Learning Python
+
+IBM Cognos
