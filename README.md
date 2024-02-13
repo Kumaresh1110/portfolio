@@ -19,8 +19,22 @@ Enhancing Object Tracking in Game Clips Through image analysis techniques.
 
 
 ### Certifications
-Microsoft Power BI Desktop for Business Intelligence (2023).
+Udemy:
+ Microsoft Power BI Desktop for Business Intelligence (2023).
 
-Learning Python
+ Learning Python
 
-IBM Cognos
+ IBM Cognos
+
+ The Ultimate MySQL Bootcamp
+
+ Python Programming - Multithreading, OOP, NumPy and Pandas
+
+ Statistics for Data Science and Business Analysis
+
+ Writing production-ready ETL pipelines in Python / Pandas
+
+
+
+
+
