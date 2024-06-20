@@ -36,7 +36,7 @@ Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
 
 
 ### Certifications
-  ### Udemy:
+  Udemy:
 
 
  Microsoft Power BI Desktop for Business Intelligence (2023).
