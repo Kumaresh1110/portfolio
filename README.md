@@ -10,6 +10,7 @@ Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
 ### Enhancing Object Tracking in Game Clips Through Image Processing Techniques
 
   •	Applied image processing techniques such as Gaussian Blur, Canny edge detection, and Salt and Pepper noise to enhance object tracking in game clips. Improved the accuracy and performance of tracking algorithms by preprocessing and refining video frames. Conducted quantitative analysis to measure the impact of each technique on tracking precision and stability. 
+  
   • Collaborated with a team to integrate these techniques into a real-time tracking system for live game clips.
 
 
@@ -17,6 +18,7 @@ Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
 ### Unpaired Image to Image Translation using cycleGAN
 
   •	Utilized cycleGAN for unpaired image-to-image translation, enabling the transformation of images from one domain to another without paired examples. Enhanced the quality of translated images through extensive parameter tuning and model training. Conducted comparative studies with other GAN-based models to validate the effectiveness of cycleGAN. 
+  
   •	Presented findings in a seminar, showcasing the practical applications of unpaired image translation in various fields.
 
 
