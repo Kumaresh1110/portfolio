@@ -1,8 +1,8 @@
 # Kumaresh Vijayakumar
 
-LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
-
 Email: kvijayak@depaul.edu
+
+LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
 
 ### Education
 Masters in Computer Science - DePaul University
