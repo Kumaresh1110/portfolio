@@ -42,12 +42,15 @@ Began with GPT-2 fine-tuning for answer generation, but transitioned to BERT for
  7. Key Technologies & Tools
     
 Libraries: transformers, torch, datasets, pandas.
-    Models: BERT (for NER), GPT-2 (for answer generation).
-    Tools: Google Colab, Jupyter Notebooks, Google Drive.
-    Impact:
-    Improved accuracy of entity recognition tasks using fine-tuned BERT models, laying the groundwork for future NLP applications.
-    Showcased the ability to adapt and fine-tune state-of-the-art models for specific text processing tasks.
-    Gained invaluable hands-on experience in model training, data manipulation, and problem-solving in real-world scenarios.
+
+ Models:
+ BERT (for NER), GPT-2 (for answer generation).
+ Tools:
+ Google Colab, Jupyter Notebooks, Google Drive.
+ Impact:
+ Improved accuracy of entity recognition tasks using fine-tuned BERT models, laying the groundwork for future NLP applications.
+ Showcased the ability to adapt and fine-tune state-of-the-art models for specific text processing tasks.
+ Gained invaluable hands-on experience in model training, data manipulation, and problem-solving in real-world scenarios.
 
     
 Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
