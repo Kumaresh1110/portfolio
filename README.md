@@ -144,8 +144,3 @@ My work during the internship was well-received, with business stakeholders ackn
 
 
 
-
-<p align="center" style="font-size: 12px;">
-  Portfolio is maintained by <a href="https://github.com/Kumaresh1110">Kumaresh Vijayakumar</a>.<br>
-  This page was generated using <a href="https://pages.github.com/">GitHub Pages</a>.
-</p>
