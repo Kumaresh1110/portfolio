@@ -1,6 +1,6 @@
 # Data Scientist
 
-LinkedIn: https://www.linkedin.com/in/kumaresh-vijayakumar/
+LinkedIn: Kumaresh Vijayakumar
 
 Email: kvijayak@depaul.edu
 
