@@ -1,4 +1,4 @@
-# Data Scientist
+# Kumaresh Vijayakumar
 
 LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
 
