@@ -1,6 +1,8 @@
 # Kumaresh Vijayakumar
 
-Email: kvijayak@depaul.edu  Phone Number: +1(872)-233-5193
+Email: kvijayak@depaul.edu  
+
+Phone Number: +1(872)-233-5193
 
 LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
 
