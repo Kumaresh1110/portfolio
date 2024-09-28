@@ -52,7 +52,38 @@ Impact: Improved accuracy of entity recognition tasks using fine-tuned BERT mode
         Gained invaluable hands-on experience in model training, data manipulation, and problem-solving in real-world scenarios.
 
     
-Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
+### Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
+
+During my internship at Midland States Bank, I worked closely with the Enterprise Analytics team under the supervision of Megan Lloyd. My primary responsibilities included creating and modifying Cognos reports and Power BI dashboards to support data-driven decision-making processes across various business departments.
+
+Key Contributions:
+Power BI Dashboards and Cognos Reports
+
+Developed and optimized 35 Cognos reports and 2 Power BI dashboards, providing critical insights that improved decision-making for business stakeholders.
+Streamlined data visualization processes, reducing time for stakeholders to access and interpret key data points.
+Reporting Request Management
+
+Managed and tracked reporting requests through the Remedy ticketing system, ensuring timely resolution of tickets and maintaining an organized workflow.
+Stakeholder Collaboration
+
+Actively engaged with business stakeholders to gather requirements and present solutions, ensuring the dashboards and reports met their specific needs.
+Team Collaboration
+
+Participated in daily stand-ups, grooming sessions, and code reviews, providing valuable feedback and staying up-to-date on ongoing projects within the team.
+
+Skills Acquired:
+
+   Data Visualization: Gained hands-on experience creating visually appealing and informative data visualizations using both Cognos and Power BI.
+
+   Technical Proficiency: Improved technical skills in data manipulation, data modeling, and dashboard development, enhancing the bank’s analytics capabilities.
+
+   Communication & Collaboration: Refined communication skills through regular interaction with stakeholders and team members, aligning technical solutions with business needs.
+
+   Time Management: Developed effective time management skills by prioritizing multiple reporting requests and meeting deadlines consistently.
+
+Impact:
+My work during the internship was well-received, with business stakeholders acknowledging the accuracy and usefulness of the insights I provided. The skills I gained in data visualization, technical reporting, and collaboration will serve as a strong foundation for my future career in data analytics.
+
   
 
 ### Selected Projects
