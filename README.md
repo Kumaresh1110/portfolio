@@ -1,8 +1,8 @@
 # Data Scientist
 
-  ##LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
+  ## LinkedIn: [Kumaresh Vijayakumar](https://www.linkedin.com/in/kumaresh-vijayakumar/)
 
-  ##Email: kvijayak@depaul.edu
+  ## Email: kvijayak@depaul.edu
 
 ### Education
 Masters in Computer Science - DePaul University
