@@ -9,30 +9,37 @@ Programmer - Applied Philosophy of Science.
 As part of a comprehensive NLP project, I led the development of an environment in Google Colab, utilizing pre-trained transformer models to process and analyze textual data. The project centered on building Named Entity Recognition (NER) functionality with BERT and initial explorations in answer generation with GPT-2.
     
  Project Highlights:
-    1. Google Colab Setup & Environment Configuration
+    
+1. Google Colab Setup & Environment Configuration
     
 Installed essential libraries like transformers, torch, and datasets, preparing Colab for NLP processing.
     Integrated Google Drive for easy dataset access and streamlined data handling.
-    2. Data Preparation & Preprocessing
+   
+2. Data Preparation & Preprocessing
     
  Loaded and preprocessed datasets using pandas and the datasets library, transforming raw CSV files into training-ready formats.
     Assisted in data creation by structuring and organizing AP questions for model training.
-    3. BERT for Named Entity Recognition (NER)
+    
+3. BERT for Named Entity Recognition (NER)
     
  Implemented pre-trained BERT tokenizer and model for token classification tasks.
     Aligned tokenized inputs with their respective labels to ensure accurate and efficient entity extraction.
     Fine-tuned the BERT model, configuring training parameters using Hugging Face's Trainer module for optimal results.
-    4. Code Notebook Development
+
+4. Code Notebook Development
     
 Created an end-to-end Python notebook in Google Colab, automating data preprocessing and BERT fine-tuning for efficient project execution.
-    5. Model Optimization
+    
+5. Model Optimization
     
 Began with GPT-2 fine-tuning for answer generation, but transitioned to BERT for more task-specific accuracy in NER, demonstrating adaptability to project requirements.
-    6. Collaborative Efforts
+    
+6. Collaborative Efforts
     
  Engaged regularly with the team and professor, discussing model optimization, data creation, and overall project goals.
     Integrated feedback into the project, ensuring alignment with both academic and technical objectives.
-    7. Key Technologies & Tools
+
+ 7. Key Technologies & Tools
     
 Libraries: transformers, torch, datasets, pandas.
     Models: BERT (for NER), GPT-2 (for answer generation).
