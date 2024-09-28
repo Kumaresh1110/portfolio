@@ -1,10 +1,11 @@
 # Data Scientist
 
 ### Education
-Masters in Computer Science
-
+Masters in Computer Science - DePaul University
+                                                                
 ### Work Experience
 ### Programmer - Applied Philosophy of Science.
+    Chicago Illinois.
 
 As part of a comprehensive NLP project, I led the development of an environment in Google Colab, utilizing pre-trained transformer models to process and analyze textual data. The project centered on building Named Entity Recognition (NER) functionality with BERT and initial explorations in answer generation with GPT-2.
     
@@ -53,6 +54,7 @@ Impact: Improved accuracy of entity recognition tasks using fine-tuned BERT mode
 
     
 ### Enterprise Analytics Intern - Midland States Bank, Rockford Illinois.
+    Rockford Illinois.
 
 During my internship at Midland States Bank, I worked closely with the Enterprise Analytics team under the supervision of Megan Lloyd. My primary responsibilities included creating and modifying Cognos reports and Power BI dashboards to support data-driven decision-making processes across various business departments.
 
