@@ -8,38 +8,38 @@ Masters in Computer Science
 
 As part of a comprehensive NLP project, I led the development of an environment in Google Colab, utilizing pre-trained transformer models to process and analyze textual data. The project centered on building Named Entity Recognition (NER) functionality with BERT and initial explorations in answer generation with GPT-2.
     
- Project Highlights:
+Project Highlights:
     
-Google Colab Setup & Environment Configuration
+Google Colab Setup & Environment Configuration:
     
 Installed essential libraries like transformers, torch, and datasets, preparing Colab for NLP processing.
 Integrated Google Drive for easy dataset access and streamlined data handling.
    
-Data Preparation & Preprocessing
+Data Preparation & Preprocessing:
     
 Loaded and preprocessed datasets using pandas and the datasets library, transforming raw CSV files into training-ready formats.
 Assisted in data creation by structuring and organizing AP questions for model training.
     
-BERT for Named Entity Recognition (NER)
+BERT for Named Entity Recognition (NER):
     
  Implemented pre-trained BERT tokenizer and model for token classification tasks.
  Aligned tokenized inputs with their respective labels to ensure accurate and efficient entity extraction.
  Fine-tuned the BERT model, configuring training parameters using Hugging Face's Trainer module for optimal results.
 
- Code Notebook Development
+ Code Notebook Development:
     
 Created an end-to-end Python notebook in Google Colab, automating data preprocessing and BERT fine-tuning for efficient project execution.
     
-Model Optimization
+Model Optimization:
     
 Began with GPT-2 fine-tuning for answer generation, but transitioned to BERT for more task-specific accuracy in NER, demonstrating adaptability to project requirements.
     
-Collaborative Efforts
+Collaborative Efforts:
     
 Engaged regularly with the team and professor, discussing model optimization, data creation, and overall project goals.
 Integrated feedback into the project, ensuring alignment with both academic and technical objectives.
 
-Key Technologies & Tools
+Key Technologies & Tools:
     
 Libraries: transformers, torch, datasets, pandas.
 
@@ -61,13 +61,16 @@ Power BI Dashboards and Cognos Reports
 
 Developed and optimized 35 Cognos reports and 2 Power BI dashboards, providing critical insights that improved decision-making for business stakeholders.
 Streamlined data visualization processes, reducing time for stakeholders to access and interpret key data points.
-Reporting Request Management
+
+Reporting Request Management:
 
 Managed and tracked reporting requests through the Remedy ticketing system, ensuring timely resolution of tickets and maintaining an organized workflow.
-Stakeholder Collaboration
+
+Stakeholder Collaboration:
 
 Actively engaged with business stakeholders to gather requirements and present solutions, ensuring the dashboards and reports met their specific needs.
-Team Collaboration
+
+Team Collaboration:
 
 Participated in daily stand-ups, grooming sessions, and code reviews, providing valuable feedback and staying up-to-date on ongoing projects within the team.
 
